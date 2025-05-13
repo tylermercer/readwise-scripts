@@ -1,0 +1,11 @@
+{
+  "name": "misc-scripts",
+  "version": "0.1.0",
+  "keywords": [],
+  "author": "",
+  "private": true,
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
